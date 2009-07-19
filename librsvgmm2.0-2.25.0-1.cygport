@@ -1,0 +1,3 @@
+inherit gtkmm
+
+CYGCONF_ARGS="DOT=true"
