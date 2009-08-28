@@ -1,0 +1,5 @@
+inherit gtkmm
+
+PKG_NAMES="${PN} ${PN}_0 ${PN}-devel"
+librsvgmm2_0_0_CONTENTS="usr/bin/cygrsvgmm-2.0-0.dll usr/share/doc/"
+librsvgmm2_0_devel_CONTENTS="usr/include/ usr/lib/"

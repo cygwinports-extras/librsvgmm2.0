@@ -1,0 +1,3 @@
+category: Gnome
+sdesc: "C++ bindings for RSVG (sources)"
+ldesc: "librsvgmm is the C++ binding for the librsvg SVG viewer library."

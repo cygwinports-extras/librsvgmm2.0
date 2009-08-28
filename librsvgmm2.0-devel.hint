@@ -1,0 +1,5 @@
+category: Gnome
+requires: librsvgmm2.0_0 libglibmm2.4-devel librsvg2-devel libsigc2.0-devel libstdc++6-devel
+external-source: librsvgmm2.0
+sdesc: "C++ bindings for RSVG (development)"
+ldesc: "librsvgmm is the C++ binding for the librsvg SVG viewer library."
